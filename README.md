@@ -1,5 +1,5 @@
 
-# Kitwind
+# QR Code
 
 I just created a quick website with HTML, CSS & JS.
 This is the most simple way ever to generate a QR code, just need to enter the link in the input and then see the magic.
