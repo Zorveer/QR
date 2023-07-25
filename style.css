@@ -10,7 +10,7 @@ body{
   padding: 0 10px;
   min-height: 100vh;
   align-items: center;
-  background-image: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(0, 212, 255) 100%);
+  background-image: linear-gradient(0deg, rgba(253,45,45,1) 0%, rgba(255,230,0,1) 100%);
   justify-content: center;
 }
 ::selection{
@@ -65,7 +65,8 @@ header p{
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px;
-  background-image: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(0, 212, 255) 100%);
+  background-image: linear-gradient(0deg, rgba(253,45,45,1) 0%, rgba(255,230,0,1) 100%);
+  
 }
 .qr-code{
   opacity: 0;
